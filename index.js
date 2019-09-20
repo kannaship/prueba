@@ -111,22 +111,7 @@ fs.readdir("./commands/radio/", (err, files) => {
   });
 });
 
-//Bot Status timer
-var timer;
-var i = 0;
-  timer = client.setInterval(function () {
-    var gamePresence = [
-      `anime`,
-      `sailor moon`,
-      `earth`,
-      `hentai`,
-      `${client.guilds.size} Planets!`,
-      `${client.users.size} stars!`
-    ];
-    client.user.setPresence({ game: { name: gamePresence[i%gamePresence.length], type: 3 } });
-    i++;
-  },7500);
-//End of code
+
 
 //Log the Bot in.
 
