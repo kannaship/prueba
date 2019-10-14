@@ -1,7 +1,7 @@
 {
-  "name": "Dorito Bot",
+  "name": "discordbot",
   "version": "1.0.0",
-  "description": "Very cool bot",
+  "description": "Cool bot",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
