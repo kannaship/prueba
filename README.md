@@ -12,7 +12,7 @@ A multipurpose Discord bot with many NSFW and fun commands as well as utility an
 * Go to the bot tab and then click add bot.
 ### Token
 Your token is what you use to log the bot in.
-* On the bot tab click coppy where it says token.
+* On the bot tab click copy where it says token.
 * Once you have coppied the token you may now paste it into the config file.
 * **MAKE SURE YOU PASTE IT BETWEEN THE SPEECH MARKS.**
 
